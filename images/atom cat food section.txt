@@ -1,0 +1,35 @@
+<!-- Cat food -->
+  <section id="details">
+    <div class="row">
+    <div class="features-box col-lg-4">
+      <i class="icon fas fa-utensils fa-3x"></i>
+      <h3>Feed your cat</h3>
+        <p>
+        All cat food is available on our website.
+        </p>
+    </div>
+      <div class="features-box col-lg-4">
+      <i class="icon fas fa-tshirt fa-3x"></i>
+        <h3>Dress your cat</h3>
+        <p>Make your cat ready to go for a party.
+        </p>
+      </div>
+
+      <div class="features-box col-lg-4">
+    <i class="icon fas fa-clinic-medical fa-3x"></i>
+        <h3>Call for help</h3>
+        <p>
+        Doctoral services are available.
+        Call now at: 9106446383
+        </p>
+      </div>
+
+    </div>
+
+  </section>
+
+
+
+
+
+<script defer src="https://use.fontawesome.com/releases/v5.0.1/js/all.js"></script>
